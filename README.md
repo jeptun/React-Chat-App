@@ -23,7 +23,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://b-chat.netlify.app/)
 
-Tato webová aplikace je vytvořena pomocí tutorialu na[JavaScript Mastery](https://www.youtube.com/watch?v=Bv9Js3QLOLY&t=2284s&ab_channel=JavaScriptMastery).  Jedná se o Realtime chat aplikaci s ověřením přístupu přes Google.   [chatengine.io](https://chatengine.io).
+Tato webová aplikace je vytvořena pomocí tutorialu na [JavaScript Mastery](https://www.youtube.com/watch?v=Bv9Js3QLOLY&t=2284s&ab_channel=JavaScriptMastery).  Jedná se o Realtime chat aplikaci s ověřením přístupu přes Google.   [Chatengine.io](https://chatengine.io).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
